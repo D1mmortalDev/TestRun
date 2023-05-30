@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestRun</string>
+    <string name="app_hello">Hello World</string>
+    <string name="app_universe">Hello Universe</string>
+    <string name="app_edit_profile">Edit Profile</string>
+    <string name="app_text_display">Penguin</string>
+    <string name="app_text_result">Result</string>
+    <string name="app_text_enter_name">Enter your name</string>
+    <string name="app_text_btn_confirm">Confirm</string>
+</resources>
